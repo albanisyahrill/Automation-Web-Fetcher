@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "78d1087ca2309a67aa820b3388da051b"
+API_KEY = (Your Token)
 GEO_URL = "http://api.openweathermap.org/geo/1.0/direct"
 WEATHER_URL = "https://api.openweathermap.org/data/2.5/weather"
 limit = 1
